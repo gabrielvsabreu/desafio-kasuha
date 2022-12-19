@@ -183,7 +183,13 @@ ul {
     text-align: justify;
     line-height: 2em;
     padding: 0px 30px 0px 30px;
-    list-style-type: '\1F341';
+    list-style-type: '\1F342';
+}
+
+ul >li {
+    margin-top: 20px;
+    color: var(--cor6);
+    font-weight: 400;
 }
 
 footer {
